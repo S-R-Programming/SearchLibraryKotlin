@@ -44,7 +44,7 @@ Android Studio (Kotlin)
 何かご不明な点がございましたら下記からお問い合わせください。<br>
 srsrappdeveloper@gmail.com
 ## 工夫点
-・以前、Javaで作ったものをKotlinに書き換えました。 
+・以前、Javaで作ったものをKotlinに書き換えました。<br>
 ・カーリルの図書館APIを使って、在庫情報のJSONファイルを取得しました。<br>https://calil.jp/doc/api.html
 
 ## 課題点
